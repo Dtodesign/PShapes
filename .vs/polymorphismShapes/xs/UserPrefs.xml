@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{7349411B-8C8D-4B40-8D53-FA166B96B41D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="polymorphismShapes/Rectangle.cs">
+    <Files>
+      <File FileName="polymorphismShapes/Program.cs" Line="52" Column="96" />
+      <File FileName="polymorphismShapes/Shape.cs" Line="17" Column="53" />
+      <File FileName="polymorphismShapes/Circle.cs" Line="29" Column="1" />
+      <File FileName="polymorphismShapes/Triangle.cs" Line="20" Column="25" />
+      <File FileName="polymorphismShapes/Square.cs" Line="20" Column="49" />
+      <File FileName="polymorphismShapes/Rectangle.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="polymorphismShapes" expanded="True">
+            <Node name="polymorphismShapes" expanded="True">
+              <Node name="Rectangle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.polymorphismShapes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

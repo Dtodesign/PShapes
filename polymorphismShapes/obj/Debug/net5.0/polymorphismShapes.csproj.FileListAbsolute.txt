@@ -1,0 +1,15 @@
+/Users/dorzz/Projects/polymorphismShapes/polymorphismShapes/obj/Debug/net5.0/polymorphismShapes.csprojAssemblyReference.cache
+/Users/dorzz/Projects/polymorphismShapes/polymorphismShapes/obj/Debug/net5.0/polymorphismShapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dorzz/Projects/polymorphismShapes/polymorphismShapes/obj/Debug/net5.0/polymorphismShapes.AssemblyInfoInputs.cache
+/Users/dorzz/Projects/polymorphismShapes/polymorphismShapes/obj/Debug/net5.0/polymorphismShapes.AssemblyInfo.cs
+/Users/dorzz/Projects/polymorphismShapes/polymorphismShapes/obj/Debug/net5.0/polymorphismShapes.csproj.CoreCompileInputs.cache
+/Users/dorzz/Projects/polymorphismShapes/polymorphismShapes/bin/Debug/net5.0/polymorphismShapes.deps.json
+/Users/dorzz/Projects/polymorphismShapes/polymorphismShapes/bin/Debug/net5.0/polymorphismShapes.runtimeconfig.json
+/Users/dorzz/Projects/polymorphismShapes/polymorphismShapes/bin/Debug/net5.0/polymorphismShapes.runtimeconfig.dev.json
+/Users/dorzz/Projects/polymorphismShapes/polymorphismShapes/bin/Debug/net5.0/polymorphismShapes.dll
+/Users/dorzz/Projects/polymorphismShapes/polymorphismShapes/bin/Debug/net5.0/ref/polymorphismShapes.dll
+/Users/dorzz/Projects/polymorphismShapes/polymorphismShapes/bin/Debug/net5.0/polymorphismShapes.pdb
+/Users/dorzz/Projects/polymorphismShapes/polymorphismShapes/obj/Debug/net5.0/polymorphismShapes.dll
+/Users/dorzz/Projects/polymorphismShapes/polymorphismShapes/obj/Debug/net5.0/ref/polymorphismShapes.dll
+/Users/dorzz/Projects/polymorphismShapes/polymorphismShapes/obj/Debug/net5.0/polymorphismShapes.pdb
+/Users/dorzz/Projects/polymorphismShapes/polymorphismShapes/obj/Debug/net5.0/polymorphismShapes.genruntimeconfig.cache
